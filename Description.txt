@@ -1,0 +1,6 @@
+Understood the internal control system of a quadcopter and simulated five different
+types of faults by making changes to the model. Selected the gyrometer and accelerometer
+readings as the features and trained binary as well as multi-class Support Vector Machine
+classifiers on the same for fault detection. Obtained an accuracy of 96% and 95% on the 
+respective models.
+Tech Stack Used : Matlab, Simulink
